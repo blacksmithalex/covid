@@ -1,6 +1,8 @@
 # Covid
 
-Данные: https://www.kaggle.com/kapral42/covid19-russia-regions-cases 
+Данные: 
+1. https://www.kaggle.com/kapral42/covid19-russia-regions-cases (росссия)
+2. https://www.kaggle.com/kapral42/covid19yandexdataset (мир)
 
 Задачи: 
 1. Найти ресурс, где можно вытащить данные за более длинный период (в нашем случае это март 2020 - август 2020), оптимально найти российские данные, если нет, то можно иностранные (в формате .csv или .xlsx)
